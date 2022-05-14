@@ -1,0 +1,25 @@
+
+header{
+    background-color: black;
+    color: azure;
+    display: flex;
+    justify-content: left;
+    opacity: 60%;}
+
+img{ 
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./597909.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
