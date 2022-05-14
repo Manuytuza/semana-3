@@ -1,0 +1,46 @@
+header{
+    background-color: black;
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    opacity: 60%;
+}
+nav{
+    display: flex;
+
+}
+
+nav ul{ 
+    display: flex;
+}
+
+ul{
+    margin: 10px;
+}
+.dg{ 
+    border-radius: 10px;
+    width:200px ;
+    height: 200px;
+
+}
+
+img{
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+}
+.dg1{
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./imagen/971586.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
